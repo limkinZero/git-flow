@@ -9,6 +9,6 @@ public class GitFlowApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitFlowApplication.class, args);
 		
-		System.out.print("Bye");
+		System.out.print("Hello");
 	}
 }
